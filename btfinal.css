@@ -96,15 +96,7 @@ p{
     object-fit: cover;
     height:auto;
 }
-footer {
-    flex-shrink: 0; 
-    background-color: blue;
-    color: yellowgreen;
-    text-align: center;
-    padding: 20px;
-    width: 100%;
-    box-sizing: border-box;
-} 
+
 @media screen and (min-width: 772px) {
     .anh {
         display: flex;
